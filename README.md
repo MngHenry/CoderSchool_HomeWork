@@ -1,2 +1,3 @@
-# CoderSchool_HomeWork
-add CV
+CoderSchool_HomeWork
+# Hello World
+My name is Minh Man
